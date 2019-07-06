@@ -1,0 +1,26 @@
+body {
+    background: teal
+}
+
+#inputBox {
+    float: right;
+    margin-right: 2in;
+    background-color: aliceblue;
+    padding: 1cm;
+}
+
+#addedButtons {
+    float: left;
+    margin-left: 2in;
+    background-color: aliceblue;
+    padding: 1cm;
+}
+
+#animals {
+    float: left;
+    margin: 1in;
+}
+
+p {
+    color: aliceblue; 
+}
